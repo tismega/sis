@@ -1,0 +1,21 @@
+hmoe11.net##div.poi-container:nth-child(9) > div.poi-row > div.poi-g_lg-4-5.inn-homepage__content:first-child > a:first-child > img
+hmoe11.net##div.poi-container:nth-child(9) > div.poi-row > div.poi-g_lg-4-5.inn-homepage__content:first-child > a:nth-child(2) > img
+hmoe11.net##div.poi-container:nth-child(9) > div.poi-row > div.poi-g_lg-1-5.inn-homepage__sidebar:last-child > aside.widget_text.inn-sidebar__item:nth-child(3) > div.widget_text.inn-widget.inn-sidebar__widget.widget_custom_html > div.textwidget.custom-html-widget > a:last-child > img
+hmoe11.net##div.inn-singular__post__body:nth-child(3) > a:nth-child(2) > img
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.poi-row > div.poi-g_lg-3-4:first-child > a:nth-child(4) > img
+blog.iacg.site##div.posts-listing-grid.py-3.py-md-4:nth-child(4) > div.container > div.row.g-2.g-lg-3.g-xl-4.list-home.list-grouped:first-child > div.col-6.col-md-3:nth-child(3)
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.block-sales.d-none.d-lg-block.mb-3.mb-md-4:first-child > a > img
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.nc-light-gallery:nth-child(4) > div.awac-wrapper:last-child > div.awac.widget.adwidget_imagewidget-2 > a > img
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.block-sales.d-none.d-lg-block.mb-lg-4:nth-child(5) > a > img
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.nc-light-gallery:nth-child(5) > div.awac-wrapper:last-child > div.awac.widget.adwidget_imagewidget-2 > a > img
+blog.iacg.site##main.site-main.h-v-75:nth-child(3) > div.container > div.block-sales.mt-3.mt-md-4.d-none.d-lg-block:nth-child(2) > a > img
+blog.iacg.site##div.posts-listing-grid.py-3.py-md-4:nth-child(4) > div.container > div.block-sales.mt-lg-4.d-none.d-lg-block:nth-child(3) > a > img
+blog.iacg.site##div.block-sales.my-4.my-lg-5.d-none.d-lg-block:nth-child(6) > div.container > a > img
+blog.iacg.site##main.site-main.h-v-75:nth-child(3) > div.container > div.block-sales.mt-3.mt-md-4.d-none.d-lg-block:nth-child(3) > a > img
+blog.iacg.site##div.posts-listing-grid.py-3.py-md-4:nth-child(4) > div.container > div.block-sales.mt-4.d-lg-none:last-child > a > img
+blog.iacg.site##div.block-sales.my-4.my-lg-5.d-lg-none:nth-child(7) > div.container > a > img
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.block-sales.d-lg-none.mb-3.mb-md-4:nth-child(2) > a > img
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.block-sales.d-lg-none.mb-3.mb-md-4:nth-child(6) > a > img
+blog.iacg.site##main.site-main.h-v-75:nth-child(3) > div.container > div.block-sales.mt-3.mt-md-4.d-lg-none:last-child > a > img
+2cycd.com###guanggaokf > a > img
+2cycd.com###guanggao365 > a > img
