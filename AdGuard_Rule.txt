@@ -31,3 +31,8 @@ blog.iacg.site##main.site-main:nth-child(3) > div.container > div.post-format-im
 blog.iacg.site##main.site-main:nth-child(3) > div.container > div.post-format-image > div.post.card.card-md:first-child > div.card-body > div.block-sales.d-none.d-lg-block.mb-lg-4:nth-child(3) > a > img
 blog.iacg.site##main.site-main:nth-child(3) > div.container > div.post-format-image > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(2) > div.block-sales.d-lg-none.mb-3.mb-md-4:nth-child(2) > a > img
 blog.iacg.site##main.site-main:nth-child(3) > div.container > div.post-format-image > div.post.card.card-md:first-child > div.card-body > div.block-sales.d-lg-none.mb-3.mb-md-4:nth-child(4) > a > img
+
+!-----------------------20220314_hmoe11_add_rule-----------------------!
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:first-child > a > img.aligncenter
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:nth-child(2) > span > a:last-child > img
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:last-child > a > img.aligncenter
