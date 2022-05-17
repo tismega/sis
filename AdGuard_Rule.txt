@@ -36,3 +36,19 @@ blog.iacg.site##main.site-main:nth-child(3) > div.container > div.post-format-im
 hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:first-child > a > img.aligncenter
 hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:nth-child(2) > span > a:last-child > img
 hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:last-child > a > img.aligncenter
+
+!-----------------------20220516_pixiv_add_rule-----------------------!
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(4) > div:last-child > div > div.banner-ad-footer-scale:last-child
+pixiv.net###modal-mymenu > div.modal-mymenu-content > div.mini-profile:first-child > a.premium-lead-t-side-menu-mini-profile:last-child
+pixiv.net###spa-contents > div.notify-page:nth-child(5) > div:nth-child(4) > div > div.banner-ad-footer-scale:last-child
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(5) > div > div:last-child > div:last-child > div > div.banner-ad-footer-scale:last-child
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(6) > div > div:last-child > div:last-child > div > div.banner-ad-footer-scale:last-child
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(4) > div.premium-lead-t-popular-d-body.popular-search-trial:first-child > a:last-child > section.clickable-area.premium-color
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(4) > div:last-child > div:nth-child(2) > div > div.premium-lead-new-t-info-home-top > div.center.information > a:last-child > div.clickable-area.free-campaign
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(4) > div:last-child > div:last-child > div > div.banner-ad-footer-scale:last-child
+pixiv.net###modal-mymenu > div.modal-mymenu-content > div.wc-menu:last-child > ul:nth-child(6) > li:nth-child(2)
+pixiv.net###modal-mymenu > div.modal-mymenu-content > div.wc-menu:last-child > ul:nth-child(12) > li:nth-child(2)
+pixiv.net###spa-contents > div:nth-child(5) > div.search-nav-config:nth-child(3) > div.buttons:nth-child(2) > ul.button-container:first-child > li.button:last-child
+pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(6) > div > div:last-child > div > div.banner-ad-footer-scale:last-child
+pixiv.net###spa-contents > div:nth-child(5) > div.search-nav-config:nth-child(3) > div:last-child > div.bottom-popup-container.search-nav-config-modal.fullScreen > div.bottom-popup > div.popup-content.bottom-flush:last-child > div.popup-content-inside > ul.config-items:first-child > li.config-item:last-child > a.premium-link:last-child
+pixiv.net###spa-contents > div:nth-child(5) > div.search-nav-config:nth-child(3) > div:last-child > div.bottom-popup-container.search-nav-config-modal.fullScreen > div.bottom-popup > div.popup-content.bottom-flush:last-child > div.popup-content-inside > ul.config-items:first-child > li.config-item:last-child > div.title.f-title-xxs.c-gray-80:first-child
