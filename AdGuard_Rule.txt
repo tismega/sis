@@ -52,3 +52,6 @@ pixiv.net###spa-contents > div:nth-child(5) > div.search-nav-config:nth-child(3)
 pixiv.net###spa-contents > div:nth-child(5) > div:nth-child(6) > div > div:last-child > div > div.banner-ad-footer-scale:last-child
 pixiv.net###spa-contents > div:nth-child(5) > div.search-nav-config:nth-child(3) > div:last-child > div.bottom-popup-container.search-nav-config-modal.fullScreen > div.bottom-popup > div.popup-content.bottom-flush:last-child > div.popup-content-inside > ul.config-items:first-child > li.config-item:last-child > a.premium-link:last-child
 pixiv.net###spa-contents > div:nth-child(5) > div.search-nav-config:nth-child(3) > div:last-child > div.bottom-popup-container.search-nav-config-modal.fullScreen > div.bottom-popup > div.popup-content.bottom-flush:last-child > div.popup-content-inside > ul.config-items:first-child > li.config-item:last-child > div.title.f-title-xxs.c-gray-80:first-child
+
+!-----------------------20220517_hmoe11_add_rule-----------------------!
+hmoe11.net##div.poi-container:nth-child(9) > div.poi-row > div.poi-g_lg-1-5.inn-homepage__sidebar:last-child > aside.widget_text.inn-sidebar__item:last-child > div.widget_text.inn-widget.inn-sidebar__widget.widget_custom_html > div.textwidget.custom-html-widget
