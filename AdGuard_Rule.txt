@@ -58,3 +58,6 @@ hmoe11.net##div.poi-container:nth-child(9) > div.poi-row > div.poi-g_lg-1-5.inn-
 
 !-----------------------20220518_IACG_add_rule-----------------------!
 blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.nc-light-gallery:nth-child(4) > div.awac-wrapper:last-child > div.awac.widget.block-2 > figure.wp-block-image.size-full > a > img.wp-image-14207
+
+!-----------------------20220613_IACG_add_rule-----------------------!
+blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.nc-light-gallery:nth-child(5) > div.awac-wrapper:last-child > div.awac.widget.block-2 > figure.wp-block-image.size-full > a > img.wp-image-14207
