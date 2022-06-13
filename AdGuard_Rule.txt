@@ -61,3 +61,8 @@ blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child
 
 !-----------------------20220613_IACG_add_rule-----------------------!
 blog.iacg.site##main.site-main:nth-child(2) > div.container > div.row:last-child > div.post-wrapper.col-12.col-xl-8:first-child > div.post.card.card-md:first-child > div.card-body > div.post-content.mb-3.mb-md-4:nth-child(4) > div.nc-light-gallery:nth-child(5) > div.awac-wrapper:last-child > div.awac.widget.block-2 > figure.wp-block-image.size-full > a > img.wp-image-14207
+
+!-----------------------20220613_hmoe11_add_rule-----------------------!
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:first-child > a:last-child > img
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:nth-child(2) > a > img.alignnone
+hmoe11.net##div.inn-layer.poi-container:nth-child(7) > div.inn-singular__post > div.inn-singular__post__body:last-child > div.inn-content-reseter:first-child > p:nth-child(9) > a > img
